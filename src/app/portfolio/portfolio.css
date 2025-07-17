@@ -1,0 +1,12 @@
+.sections {
+  padding: 0 !important;
+}
+
+.sections li {
+  max-width: 100%;
+  width: 400px;
+  height: 300px;
+  border-radius: 6px;
+  background-image: linear-gradient(to top, darkblue, black);
+  color: white;
+}
