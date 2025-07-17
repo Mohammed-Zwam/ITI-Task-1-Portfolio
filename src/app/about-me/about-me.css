@@ -5,9 +5,10 @@
 
 
 
-  .content {
-    width: 70%;
-  }
+.content {
+  width: 70%;
+  text-align: justify;
+}
 
 @media (max-width: 576px) {
   .content {
